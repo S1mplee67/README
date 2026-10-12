@@ -50,9 +50,9 @@ A Windows app I built for finding duplicate or visually similar photos without u
 
 [View the project and source code](https://github.com/S1mplee67/duplicates-by-s1mplee67)
 
-## GitHub activity
+## Between commits
 
-The contribution snake below is generated from my GitHub activity and refreshed automatically.
+A small, looping snake that takes a few unexpected turns when an apple appears. Just a bit of personality between projects—not a live contribution graph.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
