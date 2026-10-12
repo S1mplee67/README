@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Windows-42645F?style=flat-square&logo=windows&logoColor=F0E8DC" alt="Windows" />
   <img src="https://img.shields.io/badge/Backend-334B49?style=flat-square&logoColor=F0E8DC" alt="Backend development" />
   <img src="https://img.shields.io/badge/AI_%26_automation-learning-637E77?style=flat-square&logoColor=F0E8DC" alt="Learning AI and automation" />
+  <img src="https://img.shields.io/badge/JavaScript-596E5F?style=flat-square&logo=javascript&logoColor=F0E8DC" alt="JavaScript" />
 </p>
 
 ## Hey, I'm W3NCY?
@@ -25,7 +26,19 @@ I like making small tools that are actually useful. Right now I'm learning more 
 
 I've been spending time on offline desktop software, group project development, and figuring out how to automate repetitive work.
 
-## Selected project
+## Projects
+
+### [5 F!NGERS — Typing & Code Trainer](https://github.com/S1mplee67/5-fingers)
+
+I recently published **5 F!NGERS**, an offline typing trainer that pairs touch-typing lessons with programming syntax practice. It has a visual finger guide and a 75% keyboard layout, ten progressive learning stages, and local tracking for speed and accuracy.
+
+It's built with **HTML, CSS and vanilla JavaScript**, with a small **C# Windows launcher**. No sign-in or cloud connection is needed to practice.
+
+<p align="center">
+  <img src="./assets/5-fingers-preview.svg" width="100%" alt="Conceptual illustration of 5 F!NGERS: typing practice, keyboard guide, and developer code drills" />
+</p>
+
+[Explore 5 F!NGERS on GitHub](https://github.com/S1mplee67/5-fingers)
 
 ### [Duplicates by S1mplee67](https://github.com/S1mplee67/duplicates-by-s1mplee67)
 
