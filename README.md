@@ -9,7 +9,7 @@
 
 ## Hello, world!
 
-I'm **SIkeeeMODDER** ([@S1mplee67](https://github.com/S1mplee67)). I build Windows utilities and explore practical image-analysis tools with **C#**, **.NET**, and offline-first software.
+I'm **W3NCY?** ([@S1mplee67](https://github.com/S1mplee67)). I build Windows utilities and explore practical image-analysis tools with **C#**, **.NET**, and offline-first software.
 
 **ANTIGRAVITY!!**
 
