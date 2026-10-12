@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 235" width="1200" height="235" role="img" aria-labelledby="t d">
+<title id="t">Duplicates by S1mplee67 — project schematic</title>
+<desc id="d">A stylized project diagram of two similar images going through perceptual hash checks. Not a screenshot of the application.</desc>
+<defs><pattern id="p" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8DA6A0" stroke-opacity=".08"/></pattern></defs>
+<rect width="1200" height="235" rx="10" fill="#182125"/><rect width="1200" height="235" rx="10" fill="url(#p)"/>
+<rect x="1" y="1" width="1198" height="233" rx="9" fill="none" stroke="#3D5552"/>
+<rect x="1" y="1" width="1198" height="37" rx="9" fill="#232E2F"/><path d="M0 38H1200" stroke="#4E6863"/>
+<circle cx="21" cy="20" r="4" fill="#DDA269"/><circle cx="36" cy="20" r="4" fill="#84B6AD"/><circle cx="51" cy="20" r="4" fill="#627E7E"/>
+<text x="79" y="25" font-family="Consolas,monospace" fill="#B7CDC4" font-size="13">duplicates-by-s1mplee67 / diagram</text>
+<text x="1176" y="25" text-anchor="end" font-family="Consolas,monospace" fill="#819B95" font-size="11">OFFLINE • C# / .NET 4.8</text>
+<g>
+<rect x="76" y="67" width="203" height="126" rx="7" fill="#263538" stroke="#63857D"/>
+<rect x="95" y="85" width="165" height="79" rx="3" fill="#365056"/>
+<circle cx="213" cy="102" r="11" fill="#D0B58C"/>
+<path d="M98 157l42-40 28 24 28-20 60 36" stroke="#A4C6B8" stroke-width="4" fill="none" stroke-linejoin="round"/>
+<path d="M98 157l32-22 34 18 51-35 41 39" fill="none" stroke="#668F84" stroke-width="3"/>
+<text x="177" y="184" text-anchor="middle" font-family="Consolas,monospace" font-size="11" fill="#ADBFB8">image A</text>
+</g>
+<g>
+<rect x="921" y="67" width="203" height="126" rx="7" fill="#263538" stroke="#63857D"/>
+<rect x="940" y="85" width="165" height="79" rx="3" fill="#365056"/>
+<circle cx="1056" cy="103" r="11" fill="#D0B58C"/>
+<path d="M943 157l42-40 28 24 28-20 60 36" stroke="#A4C6B8" stroke-width="4" fill="none" stroke-linejoin="round"/>
+<path d="M943 157l32-22 34 18 51-35 41 39" fill="none" stroke="#668F84" stroke-width="3"/>
+<text x="1022" y="184" text-anchor="middle" font-family="Consolas,monospace" font-size="11" fill="#ADBFB8">image B</text>
+</g>
+<g fill="none" stroke="#A1B8AC" stroke-width="2">
+<path d="M279 131H380"/><path d="M820 131H921"/><path d="M373 125l8 6-8 6"/><path d="M813 125l8 6-8 6"/>
+</g>
+<rect x="382" y="76" width="436" height="112" rx="7" fill="#1D292B" stroke="#DDA269" stroke-opacity=".74"/>
+<text x="600" y="104" text-anchor="middle" font-family="Consolas,monospace" font-size="14" fill="#DDA269">COMPARE LOCALLY</text>
+<text x="600" y="144" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="bold" fill="#F0E7DA">aHash   /   dHash   /   RGB</text>
+<text x="600" y="172" text-anchor="middle" font-family="Consolas,monospace" font-size="12" fill="#93ADA5">review similar photos before removing duplicates</text>
+</svg>
