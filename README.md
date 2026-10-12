@@ -1,3 +1,4 @@
+<!-- GitHub profile README for S1mplee67 -->
 <p align="center"><img src="./assets/hero.svg" width="100%" alt="S1mplee67 — Windows Development Lab"/></p>
 
 <p align="center">
