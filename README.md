@@ -13,6 +13,17 @@ I'm **SIkeeeMODDER** ([@S1mplee67](https://github.com/S1mplee67)). I build Windo
 
 **ANTIGRAVITY!!**
 
+### ⚡ Developer / Gamer Mode
+
+```text
+╭─[ SYSTEM://S1mplee67 ]
+│ USER     : SIkeeeMODDER
+│ CLASS    : Developer / Gamer
+│ LOADOUT  : C# • .NET • Windows
+│ MISSION  : Build • Debug • Learn • Repeat
+╰─ STATUS  : LEVELING UP...
+```
+
 | Windows utilities | Image analysis | Practical tools |
 | :--- | :--- | :--- |
 | Desktop software and local workflows | Perceptual hashing and duplicate detection | Everyday tools with no cloud upload requirement |
@@ -24,7 +35,15 @@ I'm **SIkeeeMODDER** ([@S1mplee67](https://github.com/S1mplee67)). I build Windo
 <img src="https://img.shields.io/badge/.NET_4.8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Framework"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
 <img src="https://img.shields.io/badge/Batch_Scripts-444444?style=flat-square" alt="Batch scripts"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </p>
+
+### 🎯 Quest Log
+
+- **Main quest:** Build practical, offline-first Windows tools.
+- **Side quests:** Explore new tech, experiment, and sharpen debugging skills.
+- **Playstyle:** Learn by building, then ship what works.
 
 ## Featured project
 
@@ -49,4 +68,4 @@ Watch the snake travel across my real GitHub contributions. Updated automaticall
 <img src="./assets/contribution-snake.svg" width="100%" alt="Animated contribution snake for S1mplee67"/>
 </picture>
 
-<p align="center"><sub>Code × Build × Explore · Stay curious</sub></p>
+<p align="center"><sub>Code × Build × Explore × Play · Stay curious</sub></p>
