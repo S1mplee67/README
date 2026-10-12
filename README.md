@@ -1,71 +1,52 @@
-<!-- GitHub profile README for S1mplee67 -->
-<p align="center"><img src="./assets/hero.svg" width="100%" alt="S1mplee67 — Windows Development Lab"/></p>
-
+<!-- Profile README | W3NCY? (@S1mplee67) -->
 <p align="center">
-<img src="https://img.shields.io/badge/WINDOWS-DESKTOP-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows desktop"/>
-<img src="https://img.shields.io/badge/C%23-DEVELOPMENT-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C sharp"/>
-<img src="https://img.shields.io/badge/OFFLINE-FIRST-6EE7B7?style=for-the-badge" alt="Offline first"/>
+  <img src="./assets/hero.svg" width="100%" alt="W3NCY? — developer profile" />
 </p>
 
-## Hello, world!
-
-I'm **W3NCY?** ([@S1mplee67](https://github.com/S1mplee67)). I build Windows utilities and explore practical image-analysis tools with **C#**, **.NET**, and offline-first software.
-
-**ANTIGRAVITY!!**
-
-### ⚡ Developer / Gamer Mode
-
-```text
-╭─[ SYSTEM://S1mplee67 ]
-│ USER     : SIkeeeMODDER
-│ CLASS    : Developer / Gamer
-│ LOADOUT  : C# • .NET • Windows
-│ MISSION  : Build • Debug • Learn • Repeat
-╰─ STATUS  : LEVELING UP...
-```
-
-| Windows utilities | Image analysis | Practical tools |
-| :--- | :--- | :--- |
-| Desktop software and local workflows | Perceptual hashing and duplicate detection | Everyday tools with no cloud upload requirement |
-
-## Tools & technologies
-
 <p align="center">
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C sharp"/>
-<img src="https://img.shields.io/badge/.NET_4.8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Framework"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
-<img src="https://img.shields.io/badge/Batch_Scripts-444444?style=flat-square" alt="Batch scripts"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/C%23-1E3634?style=flat-square&logo=dotnet&logoColor=E8E2D8" alt="C sharp" />
+  <img src="https://img.shields.io/badge/.NET_Framework-C48D61?style=flat-square&logo=dotnet&logoColor=171C1D" alt=".NET Framework" />
+  <img src="https://img.shields.io/badge/Windows-42645F?style=flat-square&logo=windows&logoColor=F0E8DC" alt="Windows" />
+  <img src="https://img.shields.io/badge/Backend-334B49?style=flat-square&logoColor=F0E8DC" alt="Backend development" />
+  <img src="https://img.shields.io/badge/AI_%26_automation-learning-637E77?style=flat-square&logoColor=F0E8DC" alt="Learning AI and automation" />
 </p>
 
-### 🎯 Quest Log
+## Hey, I'm W3NCY?
 
-- **Main quest:** Build practical, offline-first Windows tools.
-- **Side quests:** Explore new tech, experiment, and sharpen debugging skills.
-- **Playstyle:** Learn by building, then ship what works.
+I'm a fourth-year **Computer Engineering** student at **ICCT Colleges, Cainta**. On group projects I'm usually the one working on the backend, putting pieces together, or taking the lead when things need to get finished.
 
-## Featured project
+I like making small tools that are actually useful. Right now I'm learning more about **AI and automation** alongside regular development. When I'm not coding, there's a good chance I'm gaming or messing around with a new project idea.
 
-**[Duplicates by S1mplee67](https://github.com/S1mplee67/duplicates-by-s1mplee67)** — a local Windows desktop app for finding duplicate and visually similar photos, even when images have been resized or recompressed.
-
-Built with **C# / .NET Framework 4.8**, using dHash, aHash, RGB comparisons and checksums.
-
-## GitHub snapshot
+## My workbench
 
 <p align="center">
-<img src="./assets/github-stats.svg" width="55%" alt="S1mplee67 GitHub stats"/>
-<img src="./assets/top-languages.svg" width="42%" alt="S1mplee67 most used languages"/>
+  <img src="./assets/workbench.svg" width="100%" alt="Windows apps with C# and .NET, backend development, and learning AI automation" />
 </p>
 
-## 🐍 Contribution Snake
+I've been spending time on offline desktop software, group project development, and figuring out how to automate repetitive work.
 
-Watch the snake travel across my real GitHub contributions. Updated automatically with GitHub Actions.
+## Selected project
+
+### [Duplicates by S1mplee67](https://github.com/S1mplee67/duplicates-by-s1mplee67)
+
+A Windows app I built for finding duplicate or visually similar photos without uploading them anywhere. It uses **C#**, **.NET Framework 4.8**, and a mix of **dHash, aHash, RGB comparisons, and checksums** to help review possible matches.
+
+<p align="center">
+  <img src="./assets/project-preview.svg" width="100%" alt="Conceptual diagram of local photo comparison using perceptual hashing" />
+</p>
+
+[View the project and source code](https://github.com/S1mplee67/duplicates-by-s1mplee67)
+
+## GitHub activity
+
+The contribution snake below is generated from my GitHub activity and refreshed automatically.
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg"/>
-<img src="./assets/contribution-snake.svg" width="100%" alt="Animated contribution snake for S1mplee67"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg" />
+  <img src="./assets/contribution-snake.svg" alt="Animated contribution snake across S1mplee67's GitHub calendar" width="100%" />
 </picture>
 
-<p align="center"><sub>Code × Build × Explore × Play · Stay curious</sub></p>
+<p align="center">
+  <img src="./assets/footer-strip.svg" width="100%" alt="W3NCY? — end of file" />
+</p>
