@@ -39,12 +39,14 @@ Built with **C# / .NET Framework 4.8**, using dHash, aHash, RGB comparisons and 
 <img src="./assets/top-languages.svg" width="42%" alt="S1mplee67 most used languages"/>
 </p>
 
-## Contribution trail
+## 🐍 Contribution Snake
+
+Watch the snake travel across my real GitHub contributions. Updated automatically with GitHub Actions.
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg"/>
 <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg"/>
-<img src="./assets/contribution-snake.svg" width="100%" alt="S1mplee67 contribution graphic"/>
+<img src="./assets/contribution-snake.svg" width="100%" alt="Animated contribution snake for S1mplee67"/>
 </picture>
 
 <p align="center"><sub>Code × Build × Explore · Stay curious</sub></p>
