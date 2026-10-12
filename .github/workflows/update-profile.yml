@@ -29,8 +29,8 @@ jobs:
         with:
           github_user_name: S1mplee67
           outputs: |
-            assets/contribution-snake.svg?palette=github-light
-            assets/contribution-snake-dark.svg?palette=github-dark
+            assets/contribution-snake.svg?palette=github-light&color_snake=#C58B60&color_dots=#F0F2EE,#D1E0D7,#A1C1B2,#6E9C8C,#466D60
+            assets/contribution-snake-dark.svg?palette=github-dark&color_snake=#DDA269&color_dots=#182124,#314D49,#53786E,#86AD9C,#B9D0BB
 
       - name: Commit updated snake graphics
         uses: stefanzweifel/git-auto-commit-action@v6
