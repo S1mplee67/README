@@ -50,14 +50,16 @@ A Windows app I built for finding duplicate or visually similar photos without u
 
 [View the project and source code](https://github.com/S1mplee67/duplicates-by-s1mplee67)
 
-## Between commits
+## A little farm between commits
 
-A small, looping snake that takes a few unexpected turns when an apple appears. Just a bit of personality between projects—not a live contribution graph.
+My GitHub contributions, reimagined as a tiny retro farm. Each cow marks a day I contributed code. The UFO is just passing through.
+
+**34 contributions across four days**, based on my public contribution calendar on **October 13, 2026**. This is a snapshot; GitHub's actual contribution graph remains live.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg" />
-  <img src="./assets/contribution-snake.svg" alt="Animated contribution snake across S1mplee67's GitHub calendar" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-farm.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-farm-light.svg" />
+  <img src="./assets/contribution-farm.svg" alt="Animated retro contribution farm: four cows mark actual contribution days, a UFO briefly lifts one, and a farmer checks outside" width="100%" />
 </picture>
 
 <p align="center">
