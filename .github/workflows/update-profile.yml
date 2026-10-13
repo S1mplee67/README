@@ -27,8 +27,11 @@ jobs:
               ET.parse(path)
               print('OK:', path)
 
-          for filename in ('contribution-snake.svg', 'contribution-snake-dark.svg', 'project-preview.svg'):
+          for filename in ('contribution-farm.svg', 'contribution-farm-light.svg', 'project-preview.svg'):
               text = (Path('assets') / filename).read_text(encoding='utf-8')
               if '@keyframes' not in text:
                   raise SystemExit(f'Missing animation in {filename}')
+              if filename.startswith('contribution-farm'):
+                  if '34 CONTRIBUTIONS / 4 DAYS' not in text or text.count('<title>2026-10-') != 4:
+                      raise SystemExit(f'Contribution snapshot mismatch in {filename}')
           PY
