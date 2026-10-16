@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="farmtitle farmdesc">
 <title id="farmtitle">W3NCY? contribution farm — day edition</title>
-<desc id="farmdesc">A retro farm-style illustration of the actual 34 GitHub contributions across four active days, as of October 13, 2026. Each contributed day has a cow on its correct calendar square. Three miniature UFOs scout the actual cow days and briefly attempt an abduction, while chickens peck, a sheep strolls, a rabbit hops, and the farmer checks the field. The house, fences and trees sit inside non-contribution calendar tiles. Static snapshot, not the built-in GitHub contribution graph.</desc>
+<desc id="farmdesc">A retro farm-style illustration of the actual 59 GitHub contributions across six active days, as of October 16, 2026. Each contributed day has a cow on its correct calendar square. Three miniature UFOs scout the actual cow days and briefly attempt an abduction, while chickens peck, a sheep strolls, a rabbit hops, and the farmer checks the field. The house, fences and trees sit inside non-contribution calendar tiles. Static snapshot, not the built-in GitHub contribution graph.</desc>
 <style>
 @keyframes scoutLeft {
   0%,8%{opacity:0;transform:translate(-115px,-26px)}
@@ -77,7 +77,7 @@
 <rect width="1200" height="44" rx="12" fill="#BCCDBF"/><path d="M1 44H1199" stroke="#739181" stroke-width="1"/>
 <rect x="20" y="16" width="10" height="10" fill="#65876A"/><rect x="36" y="16" width="10" height="10" fill="#8A785F"/>
 <text x="61" y="28" font-family="Consolas,monospace" font-size="16" fill="#293B36">CONTRIBUTION FARM</text>
-<text x="1173" y="28" text-anchor="end" font-family="Consolas,monospace" font-size="13" fill="#293B36">34 CONTRIBUTIONS / 4 DAYS</text>
+<text x="1173" y="28" text-anchor="end" font-family="Consolas,monospace" font-size="13" fill="#293B36">59 CONTRIBUTIONS / 6 DAYS</text>
 <rect x="76" y="97" width="963" height="157" rx="7" fill="#9EB89F" opacity=".45"/>
 <text x="92" y="91" font-family="Consolas,monospace" font-size="10" fill="#536C60">Oct</text><text x="144.5" y="91" font-family="Consolas,monospace" font-size="10" fill="#536C60">Nov</text><text x="214.5" y="91" font-family="Consolas,monospace" font-size="10" fill="#536C60">Dec</text><text x="284.5" y="91" font-family="Consolas,monospace" font-size="10" fill="#536C60">Jan</text><text x="372" y="91" font-family="Consolas,monospace" font-size="10" fill="#536C60">Feb</text><text x="442" y="91" font-family="Consolas,monospace" font-size="10" fill="#536C60">Mar</text><text x="512" y="91" font-family="Consolas,monospace" font-size="10" fill="#536C60">Apr</text><text x="582" y="91" font-family="Consolas,monospace" font-size="10" fill="#536C60">May</text><text x="669.5" y="91" font-family="Consolas,monospace" font-size="10" fill="#536C60">Jun</text><text x="739.5" y="91" font-family="Consolas,monospace" font-size="10" fill="#536C60">Jul</text><text x="809.5" y="91" font-family="Consolas,monospace" font-size="10" fill="#536C60">Aug</text><text x="897" y="91" font-family="Consolas,monospace" font-size="10" fill="#536C60">Sep</text><text x="967" y="91" font-family="Consolas,monospace" font-size="10" fill="#536C60">Oct</text>
 <g font-family="Consolas,monospace" font-size="10" fill="#536C60"><text x="43" y="131">Mon</text><text x="43" y="169">Wed</text><text x="43" y="207">Fri</text></g>
@@ -100,7 +100,21 @@
 <rect x="3" y="5" width="3" height="3" fill="#727E70"/><rect x="8" y="7" width="2.5" height="2.2" fill="#727E70"/>
 <rect x="2" y="10" width="2" height="3" fill="#56746B"/><rect x="9" y="10" width="2" height="3" fill="#56746B"/>
 <circle cx="12.2" cy="6.3" r=".65" fill="#56746B"/></g><path class="cow-wag-tail" d="M.5 4L-1 2" stroke="#56746B" stroke-width="1"/>
-</g></g><g transform="translate(1002.5,148.0)"><title>2026-10-13: 13 contributions</title><g class="cow-idle">
+</g></g><g transform="translate(1002.5,148.0)"><title>2026-10-13: 19 contributions</title><g class="cow-idle">
+<path d="M1 3H11V10H1Z" fill="#F4E7D2" stroke="#56746B" stroke-width=".6"/>
+<g class="cow-graze-head"><rect x="10" y="4" width="4" height="5" rx=".7" fill="#F4E7D2" stroke="#56746B" stroke-width=".6"/>
+<rect x="3" y="5" width="3" height="3" fill="#727E70"/><rect x="8" y="7" width="2.5" height="2.2" fill="#727E70"/>
+<rect x="2" y="10" width="2" height="3" fill="#56746B"/><rect x="9" y="10" width="2" height="3" fill="#56746B"/>
+<circle cx="12.2" cy="6.3" r=".65" fill="#56746B"/></g><path class="cow-wag-tail" d="M.5 4L-1 2" stroke="#56746B" stroke-width="1"/>
+</g></g>
+<g transform="translate(1002.5,186.0)"><title>2026-10-15: 16 contributions</title><g class="cow-idle">
+<path d="M1 3H11V10H1Z" fill="#F4E7D2" stroke="#56746B" stroke-width=".6"/>
+<g class="cow-graze-head"><rect x="10" y="4" width="4" height="5" rx=".7" fill="#F4E7D2" stroke="#56746B" stroke-width=".6"/>
+<rect x="3" y="5" width="3" height="3" fill="#727E70"/><rect x="8" y="7" width="2.5" height="2.2" fill="#727E70"/>
+<rect x="2" y="10" width="2" height="3" fill="#56746B"/><rect x="9" y="10" width="2" height="3" fill="#56746B"/>
+<circle cx="12.2" cy="6.3" r=".65" fill="#56746B"/></g><path class="cow-wag-tail" d="M.5 4L-1 2" stroke="#56746B" stroke-width="1"/>
+</g></g>
+<g transform="translate(1002.5,205.0)"><title>2026-10-16: 3 contributions</title><g class="cow-idle">
 <path d="M1 3H11V10H1Z" fill="#F4E7D2" stroke="#56746B" stroke-width=".6"/>
 <g class="cow-graze-head"><rect x="10" y="4" width="4" height="5" rx=".7" fill="#F4E7D2" stroke="#56746B" stroke-width=".6"/>
 <rect x="3" y="5" width="3" height="3" fill="#727E70"/><rect x="8" y="7" width="2.5" height="2.2" fill="#727E70"/>
@@ -165,7 +179,7 @@
   <rect x="691" y="203" width="25" height="18" rx="2" fill="#66825D" opacity=".7"/>
   <path d="M698 210l3-4 3 4m6 2l3-5 2 5" stroke="#547C51" stroke-width="2" fill="none"/>
 </g>
-<g class="grass-sway" fill="none" stroke="#547C51" stroke-width="1.1" opacity=".85"><path d="M986 179l-2-4m2 4 2-6M986 198l-3-4m3 4 2-6"/><path d="M1003 141l-2-5m2 5 3-5M1003 160l-2-5m2 5 3-5"/></g>
+<g class="grass-sway" fill="none" stroke="#547C51" stroke-width="1.1" opacity=".85"><path d="M986 179l-2-4m2 4 2-6M986 198l-3-4m3 4 2-6"/><path d="M1003 141l-2-5m2 5 3-5M1003 160l-2-5m2 5 3-5M1003 198l-2-5m2 5 3-5M1003 217l-2-5m2 5 3-5"/></g>
 <!-- Two chickens, a sheep and a rabbit are decorative, not contributions -->
 <g transform="translate(477 188)"><g class="chicken-peck">
   <title>Chicken pecking around the vegetable patch</title>
@@ -249,6 +263,6 @@
   </g>
 </g>
 <path d="M17 271H1182" stroke="#739181" opacity=".6"/>
-<text x="22" y="288" font-family="Consolas,monospace" font-size="10.5" fill="#536C60">COWS = CONTRIBUTING DAYS | 1 / 4 / 16 / 13 CONTRIBUTIONS</text>
-<text x="1180" y="288" text-anchor="end" font-family="Consolas,monospace" font-size="10.5" fill="#536C60">SNAPSHOT : 2026-10-13</text>
+<text x="22" y="288" font-family="Consolas,monospace" font-size="10.5" fill="#536C60">COWS = ACTIVE DAYS | 1 / 4 / 16 / 19 / 16 / 3 CONTRIBUTIONS</text>
+<text x="1180" y="288" text-anchor="end" font-family="Consolas,monospace" font-size="10.5" fill="#536C60">SNAPSHOT : 2026-10-16</text>
 </svg>
