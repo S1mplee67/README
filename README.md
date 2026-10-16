@@ -52,14 +52,14 @@ A Windows app I built for finding duplicate or visually similar photos without u
 
 ## A little farm between commits
 
-My GitHub contributions, reimagined as a tiny retro farm. Each cow marks a day I contributed code. The UFO is just passing through.
+My GitHub contributions, reimagined as a tiny retro farm. Each cow marks a day I contributed code. Three tiny UFOs take turns trying to abduct the cows, while the sheep, chickens, and a rabbit get on with farm life.
 
 **34 contributions across four days**, based on my public contribution calendar on **October 13, 2026**. This is a snapshot; GitHub's actual contribution graph remains live.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-farm.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-farm-light.svg" />
-  <img src="./assets/contribution-farm.svg" alt="Animated retro contribution farm: four cows mark actual contribution days, a UFO briefly lifts one, and a farmer checks outside" width="100%" />
+  <img src="./assets/contribution-farm.svg" alt="Animated retro GitHub contribution farm: four cows mark actual contribution days. Three little UFOs scout the field while chickens, a sheep and a rabbit move around a farmhouse inside the grid." width="100%" />
 </picture>
 
 <p align="center">
